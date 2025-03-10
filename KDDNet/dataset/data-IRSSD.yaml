@@ -1,0 +1,11 @@
+# images, labels, and usernames for train/val/test sets
+path:
+train: dataset/IRSSD/images/train
+val: dataset/IRSSD/images/test
+test: dataset/IRSSD/images/test
+
+# number of classes
+nc: 1
+
+# class names
+names: ['ship']
